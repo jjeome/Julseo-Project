@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\ÃÖÇöÁ¤\git\middel-proj\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4085641581.index
+4241311798.index
+3758624017.index
+4069326715.index
